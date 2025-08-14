@@ -37,9 +37,9 @@ The project demonstrates **clean code**, **Firebase integration**, and **future 
 git clone https://github.com/khaled338/User-Managment-App.git
 cd User-Managment-App
 
-| Login& signUp Screen                    | Profile Screen                      | User List                           | Dark Mode                              |
-| ------------------------------- | ----------------------------------- | ----------------------------------- | -------------------------------------- |
-| ![Login](screenshots\login.PNG) | | ![signUp](screenshots/signUp.PNG) | ![Profile light](screenshots/editProfileLight.PNG) | ![User List light](screenshots/listOfUserLight.PNG) | ![Dark Mode](screenshots/editProfileDark.PNG) |![Dark Mode](screenshots/ListOfUserDark.PNG)
+| Login Screen | SignUp Screen | Profile Light | User List Light | Profile Dark | User List Dark |
+|--------------|--------------|--------------|----------------|--------------|---------------|
+| ![Login](screenshots/login.PNG) | ![SignUp](screenshots/signUp.PNG) | ![Profile light](screenshots/editProfileLight.PNG) | ![User List light](screenshots/listOfUserLight.PNG) | ![Profile Dark](screenshots/editProfileDark.PNG) | ![User List Dark](screenshots/ListOfUserDark.PNG) |
 
 ⏱️ Time Spent
 
